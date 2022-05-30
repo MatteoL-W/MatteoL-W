@@ -4,8 +4,6 @@
 
 🖥️ Web and game development
 
-💖 Symfony
-
 ---
 
 [My portfolio](matteo-leclercq.fr)
