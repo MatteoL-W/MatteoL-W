@@ -3,13 +3,9 @@
 <div align="center">
 
 
-🏫 Multimedia engineer student at [IMAC](https://www.ingenieur-imac.fr/)
+🏫 Multimedia engineer from [IMAC](https://www.ingenieur-imac.fr/)
 
 🖥️ Web and game development
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatteoL-W)](https://git.io/streak-stats)
 </div>
-
----
-
-🎉Checkout my portfolio : [matteo-leclercq.fr](https://matteo-leclercq.fr) 
